@@ -10,11 +10,12 @@ Features
 
 Technology Stack
 
-    React
     Remix
-    Prisma
+    React
     MySQL
-
+    Prisma
+    Tailwind
+    
 How to Run the Application
 
     Clone the repository: git clone <repo_url>
