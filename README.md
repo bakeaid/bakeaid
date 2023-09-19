@@ -10,7 +10,6 @@ Features
 
 Technology Stack
     Remix 
-    Typescript
     React
     MySQL
     Prisma
